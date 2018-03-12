@@ -1,6 +1,6 @@
 # gif storage
 
-Storage place for all my favorite gifs.
+Storage place for all my favorite gifs.   
 
 ![thumbs up](bien/sk8r-girl.gif)
 
